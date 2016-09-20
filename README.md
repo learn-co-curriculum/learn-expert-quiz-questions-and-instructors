@@ -17,11 +17,9 @@
 ( ) six hours
 (X) one day 
 
-?: A Learn instructor (check all that apply)
+?: A Learn instructor:
 
-(X) conducts live assessments with students  
 (X) owns a section of the curriculum and does what it takes to help students leran and complete their section as quickly as possible   
-(X) conducts live assessments with students 
 ( ) is a Learn expert that does lectures  
 ( ) manages Learn experts  
 
