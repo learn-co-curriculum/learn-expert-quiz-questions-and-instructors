@@ -17,11 +17,6 @@
 ( ) six hours
 (X) one day 
 
-?: `let` declares a block-scoped variable
-
-(X) True
-( ) False
-
 ?: A Learn instructor (check all that apply)
 
 ( ) is a Learn expert that does lectures
@@ -30,5 +25,3 @@
 ( ) manages Learn experts
 
 ???
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-quiz-questions-and-instructors'>Learn Expert Quiz Questions and Instructors </a> on Learn.co and start learning to code for free.</p>
