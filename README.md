@@ -19,7 +19,7 @@
 
 ?: A Learn instructor:
 
-(X) owns a section of the curriculum and does what it takes to help students leran and complete their section as quickly as possible   
+(X) owns a section of the curriculum and does what it takes to help students learn and complete their section as quickly as possible   
 ( ) is a Learn expert that does lectures  
 ( ) manages Learn experts  
 
